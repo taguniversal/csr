@@ -2,6 +2,7 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Computer Science Reconsidered"
 theme = "ananke"
+publishDir = "docs"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
